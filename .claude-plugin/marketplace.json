@@ -1,0 +1,16 @@
+{
+  "name": "claude-usage",
+  "owner": {
+    "name": "Christian Oudard"
+  },
+  "metadata": {
+    "description": "claude-usage plugin"
+  },
+  "plugins": [
+    {
+      "name": "claude-usage",
+      "source": "./",
+      "description": "Allow agents to check their own token usage and subscription quota. Claude Code only."
+    }
+  ]
+}

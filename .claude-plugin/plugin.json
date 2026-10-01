@@ -1,0 +1,11 @@
+{
+  "name": "claude-usage",
+  "version": "0.1.0",
+  "description": "Allow agents to check their own token usage and subscription quota. Claude Code only.",
+  "author": {
+    "name": "Christian Oudard"
+  },
+  "homepage": "https://github.com/christian-oudard/claude-usage",
+  "repository": "https://github.com/christian-oudard/claude-usage",
+  "license": "MIT"
+}
